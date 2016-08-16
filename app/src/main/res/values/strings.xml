@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GOAL</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="football_array">
+        <item>Liverpool vs Man Utd</item>
+        <item>Arsenal vs Chelsea</item>
+        <item>Spurs vs Everton</item>
+    </string-array>
+
+    <string-array name="guest_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
